@@ -263,8 +263,8 @@ def update_figure(val1,val2,val3,val4,val5,val6,val7,val8,val9,df):
 
 
 if __name__ == '__main__':
-	url = 'http://127.0.0.1:8050/'
-	webbrowser.open_new(url)
+	#url = 'http://127.0.0.1:8050/'
+	#webbrowser.open_new(url)
 	app.run_server(debug=True)
 
 
